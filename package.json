@@ -1,11 +1,24 @@
 {
+  "name": "alura-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maeloliveira/alura-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maeloliveira/alura-node/issues"
+  },
+  "homepage": "https://github.com/maeloliveira/alura-node-md#readme",
   "dependencies": {
-    "name": "alura-node",
-    "version": "1.0.0",
-    "description": "",
-    "chalk": "5.0.1",
-    //"main": "index.js",
-    "type": "module"
-  
+    "chalk": "5.2.0"
   }
 }
