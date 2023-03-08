@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "name": "alura-node",
+    "version": "1.0.0",
+    "description": "",
+    "chalk": "5.0.1",
+    //"main": "index.js",
+    "type": "module"
+  
+  }
+}
